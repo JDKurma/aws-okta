@@ -2,4 +2,3 @@
 *.sw[a-z]
 dist/
 packagecloud.conf.json
-aws-okta
